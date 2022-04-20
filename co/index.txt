@@ -1,0 +1,66 @@
+{"k":"co/modulo_Tecnologia_6.html","h":"co/modulo_Tecnologia_3.html","a":"co/modulo_Tecnologia_1.html","c":"co/grano.html","i":"co/modulo_Tecnologia_4.html","f":"co/psmImagen.html","l":"co/modulo_Tecnologia_7.html","e":"co/psm.html","b":"co/Nombre1.html","m":"co/modulo_Tecnologia_8.html","j":"co/modulo_Tecnologia_5.html","d":"co/modulo_Tecnologia_2.html","g":"co/psu.html"}
+["2","1"]
+{"wordPattern":"[^\\u0000-/:-@\\[-`{-\\u00A0]+(?:[-][^\\u0000-/:-@\\[-`{-\\u00A0]+)?|\\d+(?:[,.]\\d+)?","filters":[{"type":"excludeShortWords","forWords":"\\d+","min":1},{"type":"excludeShortWords","forWords":"\\D+","min":3},{"type":"cutLongWords","max":20},{"type":"lowerCase"},{"type":"ignoreWords","words":{"sabes":1,"emplear":1,"entonces":1,"empleas":1,"saber":1,"bastante":1,"podéis":1,"tras":1,"intentamos":1,"trabajáis":1,"fin":1,"unos":1,"trabajan":1,"yo":1,"tener":1,"vosotros":1,"mientras":1,"nosotros":1,"atrás":1,"emplean":1,"trabajas":1,"bien":1,"trabajar":1,"ciertos":1,"como":1,"tenéis":1,"aquel":1,"ultimo":1,"vais":1,"van":1,"sabe":1,"verdad":1,"podríais":1,"trabajamos":1,"bueno":1,"ir":1,"aquellas":1,"vamos":1,"hace":1,"muchos":1,"podrías":1,"intentas":1,"podrían":1,"intentar":1,"cual":1,"eres":1,"estoy":1,"estamos":1,"fueron":1,"encima":1,"intentan":1,"quien":1,"qué":1,"consigues":1,"dos":1,"incluso":1,"algunas":1,"hacer":1,"sus":1,"los":1,"por":1,"mio":1,"consiguen":1,"hacen":1,"era":1,"ellas":1,"si":1,"tengo":1,"conseguimos":1,"largo":1,"antes":1,"haces":1,"ser":1,"tuyo":1,"su":1,"estáis":1,"alguna":1,"cuando":1,"aquí":1,"arriba":1,"usas":1,"valor":1,"intentáis":1,"todo":1,"alguno":1,"ante":1,"empleamos":1,"cada":1,"la":1,"tiempo":1,"están":1,"fue":1,"usar":1,"fui":1,"usan":1,"siendo":1,"aquellos":1,"estado":1,"usa":1,"lo":1,"con":1,"podemos":1,"usamos":1,"trabajo":1,"ellos":1,"uso":1,"hago":1,"ambos":1,"podríamos":1,"un":1,"soy":1,"entre":1,"modo":1,"las":1,"solamente":1,"desde":1,"hacemos":1,"el":1,"cierta":1,"en":1,"cierto":1,"va":1,"vosotras":1,"es":1,"eras":1,"sobre":1,"donde":1,"algunos":1,"sois":1,"pueden":1,"esta":1,"eran":1,"trabaja":1,"sabéis":1,"unas":1,"somos":1,"tenemos":1,"empleo":1,"primero":1,"verdadera":1,"vaya":1,"usáis":1,"pero":1,"ciertas":1,"también":1,"podría":1,"verdadero":1,"muy":1,"nos":1,"para":1,"tiene":1,"otro":1,"algún":1,"sin":1,"puede":1,"voy":1,"dentro":1,"intento":1,"fuimos":1,"sabemos":1,"una":1,"solo":1,"bajo":1,"puedo":1,"poder":1,"tienen":1,"conseguir":1,"intenta":1,"eramos":1,"empleáis":1,"hacéis":1,"consigo":1,"uno":1,"ha":1,"consigue":1,"porque":1,"estaba":1,"saben":1}},{"type":"filterAccentedLatinLetters"}]}
+notas	a.01	b.01	c.01	d.01	e.01	f.01	g.01	h.01	i.01	j.01	k.01	l.01	m.01
+1	d.01	g.04	h.10
+2	d.01	g.02	i.10
+3	d.01	g.01	j.10
+4	d.01	k.10
+5	d.01	l.10
+6	d.01	m.10
+andrea	a.01	b.10
+area	f.01
+andres	a.01	c.10
+respuesta	e.01	g.01
+ejercicio	e.10	f.10	g.10
+francisco	b.01	c.01
+basadas	d.10
+tsd	d.10
+actividades	d.10
+distrital	b.01	c.01
+correcta	e.01	g.01
+correccion	e.01	f.01	g.01
+autores	a.10
+grado	b.01	c.01
+cuales	f.01
+presentada	f.01
+congruentes	e.01
+pre	b.01	c.01
+secuencia	d.10
+segmentos	e.05
+expresiones	f.01
+anos	b.01	c.01
+yenifer	a.01	b.10
+rodrguez	a.01	b.10
+empezar	e.01	f.01	g.01
+web	a.10
+matematicas	b.01	c.01
+licenciatura	b.01	c.01
+educacion	b.01	c.01
+sitio	a.10
+siguientes	f.01
+del	a.10
+actividad	d.06	h.10	i.10	j.10	k.10	l.10	m.10
+cual	g.01
+molina	a.01	c.10
+edad	b.01	c.01
+basica	b.01	c.01
+universidad	b.01	c.01
+corresponden	f.01
+son	e.01
+rubio	a.01	c.10
+factorizacion	g.01
+javier	a.01	c.10
+estudiante	b.01	c.01
+23	b.01
+25	c.01
+expresion	g.01
+volver	e.01	f.01	g.01
+jose	b.01	c.01
+2x	g.01
+que	e.01
+figura	f.01
+eleccion	e.02	g.02
+enfasis	b.01	c.01
+caldas	b.01	c.01
+guerrero	a.01	b.10
